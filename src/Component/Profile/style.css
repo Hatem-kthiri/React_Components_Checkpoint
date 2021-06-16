@@ -1,0 +1,27 @@
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    
+     
+}
+.Photo{
+    border-top-left-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 100%;
+    background-color: #e74c3c;
+    margin-left: -45px;
+}
+p{
+    
+    font-size: 24px;
+    font-weight: 600;
+    color: #090979;
+    font-family: Times, "Times New Roman", Georgia, serif;
+}
+span{
+    color:#606c88;
+}
